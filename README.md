@@ -1,5 +1,5 @@
 # Tarifka
-Patika.dev React-Native ödevi olarak yapıldı.
+<a href="https://app.patika.dev">Patika.dev</a> React-Native ödevi olarak yapıldı.
 Uygulamamızın açılış sayfasında yemek kategorileri gelmeli.
 Herhangi bir kategoriye tıklandığında o kategoriye ait yemek listesi gelmektedir.
 Herhangi bir yemek seçildiğinde de onun detayını görüntülenebiliyor..
